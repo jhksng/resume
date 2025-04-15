@@ -1,7 +1,7 @@
 resume
 <hr>
 1. Profile
-Name : Kim JeongHo 
+1.1 Name : Kim JeongHo 
 Date of Birth : 21.03.2001
 Mail : jeongho2727@gmail.com
 Github: https://github.com/jhksng
