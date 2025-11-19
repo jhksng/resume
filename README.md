@@ -44,6 +44,7 @@ Major : Computer Software Engineering<br>
    <tr>
       <td>Python</td>
       <td>2 year</td>
+      <td></td>
    </tr>
 </table>
 <hr>
