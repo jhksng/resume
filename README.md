@@ -13,7 +13,7 @@ Major : Computer Software Engineering<br>
 학점: 3.69 / 4.50<br>
 <br>
 <hr>
-<h2>3. Project</h2>
+<h2>3. Project & Activities</h2>
 <table>
    <tr>
       <td>Name</td>
@@ -26,6 +26,12 @@ Major : Computer Software Engineering<br>
       <td>https://youtu.be/L-s3PZCg75I?si=6CB8yGI8pn5gcYTG</td>
       <td>Arduino</td>
       <td>2024.04 ~ 2024.06.16</td>
+   </tr>
+   <tr>
+      <td>Smart Farm</td>
+      <td></td>
+      <td>RPi4, Arduino, C, Python, Java, GCP</td>
+      <td>2025.09 ~ 2025.11.08</td>
    </tr>
 </table>
 <hr>
