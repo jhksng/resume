@@ -38,8 +38,12 @@ Major : Computer Software Engineering<br>
    </tr>
    <tr>
       <td>C</td>
-      <td>2 year</td>
+      <td>3 year</td>
       <td>Baekjoon Online Judge ( Gold 5 )</td>
+   </tr>
+   <tr>
+      <td>Python</td>
+      <td>2 year</td>
    </tr>
 </table>
 <hr>
